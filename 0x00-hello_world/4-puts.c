@@ -2,11 +2,11 @@
 #include <string.h>
 
 /**
- * main - entrypoint
+ * main - print out 'Programming is like building a multilingual puzzle
  *
- * description - prints out specific string
+ * description - prints out specific set string
  *
- * Return always 0
+ * return always 0
  */
 
 int main(void)
