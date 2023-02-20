@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <string.h>
 
-/*
- * Main - entrypoint
+/**
+ * main - entrypoint
  *
- * Description - prints out specific string
+ * description - prints out specific string
  *
  * Return always 0
  */
